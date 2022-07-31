@@ -3,8 +3,7 @@
 ## Description
 
 This is the Prework Study Guide for the Online Coding Bootcamp. It includes the following:
-
-HTML, CSS, JavaScript, Git and Github, and how to setup and collaborate on projects.
+HTML, CSS, JavaScript, Git, Github, and how to setup and collaborate on projects.
 
 ## Installation
 
